@@ -4,6 +4,10 @@ align-items: center;
 justify-content: space-between;
 margin: 20px 170px;
 }
+.navbar h1{
+    color: white;
+font-weight: 900;
+}
 .nav-menu{
     display: flex;
     list-style: none;
